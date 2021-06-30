@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Block
+  - LeftWall
+  - RightWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Ball
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 230032309
+    locked: 0
+  - name: Player
+    uniqueID: 3661944201
+    locked: 0
+  - name: Brick
+    uniqueID: 3655870333
+    locked: 0
+  - name: Ball
+    uniqueID: 1219339815
+    locked: 0
+  - name: UI
+    uniqueID: 602941553
+    locked: 0
